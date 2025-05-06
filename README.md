@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Srivarshan S
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://linkedin.com/in/srivarshan535)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&labelColor=black)](https://github.com/srivarshan53)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/srivarshan53)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivarshan535@gmail.com)
 
